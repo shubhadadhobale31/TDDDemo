@@ -1,0 +1,7 @@
+c:\users\vinay.supekar\source\repos\TDDDemo\TDDDemo\bin\Debug\TDDDemo.exe.config
+c:\users\vinay.supekar\source\repos\TDDDemo\TDDDemo\bin\Debug\TDDDemo.exe
+c:\users\vinay.supekar\source\repos\TDDDemo\TDDDemo\bin\Debug\TDDDemo.pdb
+c:\users\vinay.supekar\source\repos\TDDDemo\TDDDemo\obj\Debug\TDDDemo.csprojResolveAssemblyReference.cache
+c:\users\vinay.supekar\source\repos\TDDDemo\TDDDemo\obj\Debug\TDDDemo.csproj.CoreCompileInputs.cache
+c:\users\vinay.supekar\source\repos\TDDDemo\TDDDemo\obj\Debug\TDDDemo.exe
+c:\users\vinay.supekar\source\repos\TDDDemo\TDDDemo\obj\Debug\TDDDemo.pdb
